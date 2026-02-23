@@ -15,6 +15,7 @@ assignees: ""
 ## Actual behavior
 
 ## Environment
+
 - OS:
 - compose-agentsmd version:
 
