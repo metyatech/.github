@@ -14,4 +14,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npx markdownlint-cli2 "**/*.md" "#AGENTS.md" "#CLAUDE.md"
+      - run: npx markdownlint-cli2
